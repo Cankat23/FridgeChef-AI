@@ -1,0 +1,1774 @@
+{
+  "roasted-vegetables": {
+    "file": "roasted-vegetables.jpg",
+    "alt": "Serving suggestion: roasted vegetables",
+    "credit": "Kykk wiki · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_vegetables.jpg",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "vegetable"
+        ],
+        [
+          "roast",
+          "roasted",
+          "grilled"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "tomato",
+          "corn",
+          "carrot",
+          "zucchini",
+          "courgette",
+          "pepper",
+          "eggplant",
+          "aubergine"
+        ]
+      ],
+      "depicted": "tomato corn onion greens",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 0
+    }
+  },
+  "salmon": {
+    "file": "salmon.jpg",
+    "alt": "Serving suggestion: salmon",
+    "credit": "Syced · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grilled_salmon_at_French_restaurant_in_Tokyo.jpg",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "salmon"
+        ],
+        [
+          "grilled",
+          "baked",
+          "roasted",
+          "seared"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "salmon"
+        ]
+      ],
+      "depicted": "salmon cream onion vegetables",
+      "forbid": [],
+      "avoid_diets": [
+        "vegetarian",
+        "vegan"
+      ],
+      "avoid_gf": true,
+      "priority": 0
+    }
+  },
+  "salad": {
+    "file": "salad.jpg",
+    "alt": "Serving suggestion: salad",
+    "credit": "Monstruo Estudio · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vegetable_Salad_(Unsplash).jpg",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "salad"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "tomato"
+        ],
+        [
+          "lettuce",
+          "spinach",
+          "greens",
+          "rocket",
+          "arugula"
+        ]
+      ],
+      "depicted": "lettuce tomato onion",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus",
+        "pasta",
+        "rice",
+        "chickpea",
+        "kidney bean",
+        "apple",
+        "berry",
+        "avocado",
+        "fruit"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 0
+    }
+  },
+  "tomato-soup": {
+    "file": "tomato-soup.jpg",
+    "alt": "Serving suggestion: tomato soup",
+    "credit": "Stu Spivack · CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomato_soup.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "tomato"
+        ],
+        [
+          "soup"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "tomato"
+        ]
+      ],
+      "depicted": "tomato cream bread",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [
+        "vegan"
+      ],
+      "avoid_gf": true,
+      "priority": 0
+    }
+  },
+  "tomato-pasta": {
+    "file": "tomato-pasta.jpg",
+    "alt": "Serving suggestion: tomato pasta",
+    "credit": "Roberto De Martino · Free use",
+    "source": "https://commons.wikimedia.org/wiki/File:Pasta_al_pomodoro.JPG",
+    "license": "https://commons.wikimedia.org/wiki/File:Pasta_al_pomodoro.JPG",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "pasta",
+          "spaghetti",
+          "pomodoro"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "pasta",
+          "spaghetti"
+        ],
+        [
+          "tomato"
+        ]
+      ],
+      "depicted": "wheat pasta tomato",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus",
+        "pesto",
+        "salad"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 0
+    }
+  },
+  "omelette": {
+    "file": "omelette.jpg",
+    "alt": "Serving suggestion: omelette",
+    "credit": "JacquesDemien · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:An_omelette.jpg",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "omelette",
+          "omelet"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "egg"
+        ]
+      ],
+      "depicted": "egg butter wheat bread meat",
+      "forbid": [],
+      "avoid_diets": [
+        "vegetarian",
+        "vegan"
+      ],
+      "avoid_gf": true,
+      "priority": 0
+    }
+  },
+  "lentil-soup": {
+    "file": "lentil-soup.jpg",
+    "title": "File:Vegan brown lentil soup.jpg",
+    "alt": "Serving suggestion: lentil soup",
+    "credit": "Trashpossum666 · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vegan_brown_lentil_soup.jpg",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "license_name": "CC0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "lentil"
+        ],
+        [
+          "soup",
+          "stew"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "lentil"
+        ]
+      ],
+      "depicted": "lentils bread vegan cream",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": true,
+      "priority": 2
+    }
+  },
+  "bean-salad": {
+    "file": "bean-salad.jpg",
+    "title": "File:Bean salad.jpg",
+    "alt": "Serving suggestion: bean salad",
+    "credit": "PPD · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bean_salad.jpg",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "license_name": "CC0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "salad"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "bean"
+        ]
+      ],
+      "depicted": "green beans kidney beans chickpeas",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 2
+    }
+  },
+  "fried-rice": {
+    "file": "fried-rice.jpg",
+    "title": "File:Chinese Fried Rice.JPG",
+    "alt": "Serving suggestion: fried rice",
+    "credit": "Miansari66 · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chinese_Fried_Rice.JPG",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "license_name": "CC0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "fried rice"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "rice"
+        ],
+        [
+          "egg"
+        ]
+      ],
+      "depicted": "rice eggs soy sauce carrot peas",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus",
+        "noodle"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": true,
+      "priority": 0
+    }
+  },
+  "chicken": {
+    "file": "chicken.jpg",
+    "title": "File:Grilled chicken placed on a plate with herbs and citrus fruit.jpg",
+    "alt": "Serving suggestion: chicken",
+    "credit": "Shixart1985 · CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grilled_chicken_placed_on_a_plate_with_herbs_and_citrus_fruit.jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0",
+    "license_name": "CC BY 2.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "chicken"
+        ],
+        [
+          "grilled",
+          "roast",
+          "roasted",
+          "baked",
+          "seared"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "chicken"
+        ]
+      ],
+      "depicted": "chicken lemon herbs pepper",
+      "forbid": [
+        "curry",
+        "salad",
+        "pasta",
+        "sandwich",
+        "soup",
+        "stew",
+        "noodle"
+      ],
+      "avoid_diets": [
+        "vegan",
+        "vegetarian"
+      ],
+      "avoid_gf": false,
+      "priority": 0
+    }
+  },
+  "avocado-toast": {
+    "file": "avocado-toast.jpg",
+    "title": "File:Avocado toast with pickled onion and greens - Massachusetts.jpg",
+    "alt": "Serving suggestion: avocado toast",
+    "credit": "Daderot · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avocado_toast_with_pickled_onion_and_greens_-_Massachusetts.jpg",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "license_name": "CC0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "toast",
+          "sandwich"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "avocado"
+        ],
+        [
+          "bread",
+          "toast"
+        ]
+      ],
+      "depicted": "wheat bread avocado onion greens",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus",
+        "egg"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": true,
+      "priority": 2
+    }
+  },
+  "pancakes": {
+    "file": "pancakes.jpg",
+    "title": "File:Blueberry and plain pancakes.jpg",
+    "alt": "Serving suggestion: pancakes",
+    "credit": "jeffreyw · CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blueberry_and_plain_pancakes.jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0",
+    "license_name": "CC BY 2.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "pancake"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "flour",
+          "pancake"
+        ],
+        [
+          "blueberry"
+        ]
+      ],
+      "depicted": "wheat flour egg milk blueberries",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [
+        "vegan"
+      ],
+      "avoid_gf": true,
+      "priority": 0
+    }
+  },
+  "ratatouille": {
+    "file": "ratatouille.jpg",
+    "title": "File:Ratatouille.jpg",
+    "alt": "Serving suggestion: ratatouille",
+    "credit": "Marcus Guimarães · CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ratatouille.jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0",
+    "license_name": "CC BY 2.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "ratatouille",
+          "stew",
+          "roasted",
+          "grilled"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "eggplant",
+          "aubergine"
+        ],
+        [
+          "zucchini",
+          "courgette"
+        ],
+        [
+          "tomato"
+        ]
+      ],
+      "depicted": "eggplant zucchini tomato pepper",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 3
+    }
+  },
+  "pesto-pasta": {
+    "file": "pesto-pasta.jpg",
+    "title": "File:Pasta with pesto.jpg",
+    "alt": "Serving suggestion: pesto pasta",
+    "credit": "Paul Goyette · CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pasta_with_pesto.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/2.0",
+    "license_name": "CC BY-SA 2.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "pasta",
+          "spaghetti"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "pasta",
+          "spaghetti"
+        ],
+        [
+          "pesto",
+          "basil"
+        ]
+      ],
+      "depicted": "wheat pasta basil parmesan pine nuts tomato",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus",
+        "salad"
+      ],
+      "avoid_diets": [
+        "vegan"
+      ],
+      "avoid_gf": true,
+      "priority": 2
+    }
+  },
+  "greek-salad": {
+    "file": "greek-salad.jpg",
+    "title": "File:Greek salad.jpg",
+    "alt": "Serving suggestion: greek salad",
+    "credit": "pastitio · CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Greek_salad.jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0",
+    "license_name": "CC BY 2.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "salad"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "feta"
+        ],
+        [
+          "tomato"
+        ],
+        [
+          "cucumber"
+        ]
+      ],
+      "depicted": "feta cheese tomato cucumber onion olive pepper",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [
+        "vegan"
+      ],
+      "avoid_gf": false,
+      "priority": 3
+    }
+  },
+  "chickpea-salad": {
+    "file": "chickpea-salad.jpg",
+    "title": "File:Plant-fruit-bowl-dish-food-salad-1200225-pxhere.jpg",
+    "alt": "Serving suggestion: chickpea salad",
+    "credit": "Unknown authorUnknown author · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plant-fruit-bowl-dish-food-salad-1200225-pxhere.jpg",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "license_name": "CC0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "salad"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "chickpea",
+          "garbanzo"
+        ]
+      ],
+      "depicted": "chickpeas cress carrot tomato",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 3
+    }
+  },
+  "vegetable-noodles": {
+    "file": "vegetable-noodles.jpg",
+    "title": "File:Chinese vegetable stir fry noodles.jpg",
+    "alt": "Serving suggestion: vegetable noodles",
+    "credit": "tednmiki · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chinese_vegetable_stir_fry_noodles.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0",
+    "license_name": "CC BY-SA 3.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "noodle",
+          "stir fry"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "noodle"
+        ],
+        [
+          "vegetable",
+          "pepper",
+          "cabbage",
+          "carrot",
+          "broccoli",
+          "eggplant",
+          "aubergine"
+        ]
+      ],
+      "depicted": "wheat noodles soy sauce vegetables",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus",
+        "salad"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": true,
+      "priority": 2
+    }
+  },
+  "hummus": {
+    "file": "hummus.jpg",
+    "title": "File:Hummus.jpg",
+    "alt": "Serving suggestion: hummus",
+    "credit": "Donovan Govan. · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hummus.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "license_name": "CC BY-SA 3.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "hummus",
+          "houmous"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "chickpea",
+          "garbanzo"
+        ]
+      ],
+      "depicted": "chickpeas tahini garlic lemon olive oil",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 4
+    }
+  },
+  "fruit-salad": {
+    "file": "fruit-salad.jpg",
+    "title": "File:Fruit salad.jpg",
+    "alt": "Serving suggestion: fruit salad",
+    "credit": "tracy from north brookfield,Massachusetts, usa · CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fruit_salad.jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0",
+    "license_name": "CC BY 2.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "salad",
+          "fruit bowl"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "orange",
+          "mango"
+        ],
+        [
+          "strawberry",
+          "berry",
+          "melon",
+          "pineapple"
+        ]
+      ],
+      "depicted": "orange mango strawberry",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus",
+        "lettuce",
+        "spinach",
+        "greens"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": false,
+      "priority": 2
+    }
+  },
+  "broccoli-soup": {
+    "file": "broccoli-soup.jpg",
+    "title": "File:Broccoli Soup With Roasted Bread (164927623).jpeg",
+    "alt": "Serving suggestion: broccoli soup",
+    "credit": "Markus Spiske Freeforcommercialuse Net · CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Broccoli_Soup_With_Roasted_Bread_(164927623).jpeg",
+    "license": "https://creativecommons.org/licenses/by/3.0",
+    "license_name": "CC BY 3.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "broccoli"
+        ],
+        [
+          "soup"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "broccoli"
+        ]
+      ],
+      "depicted": "broccoli cream bread",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [
+        "vegan"
+      ],
+      "avoid_gf": true,
+      "priority": 0
+    }
+  },
+  "shakshuka": {
+    "file": "shakshuka.jpg",
+    "title": "File:Shakshuka.jpg",
+    "alt": "Serving suggestion: shakshuka",
+    "credit": "Myriam Damaris R · CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shakshuka.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/2.0",
+    "license_name": "CC BY-SA 2.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "shakshuka",
+          "shakshouka",
+          "eggs"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "egg"
+        ],
+        [
+          "tomato"
+        ]
+      ],
+      "depicted": "eggs tomato wheat bread",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [
+        "vegan"
+      ],
+      "avoid_gf": true,
+      "priority": 3
+    }
+  },
+  "chickpea-curry": {
+    "file": "chickpea-curry.jpg",
+    "title": "File:Chickpea Curry.jpg",
+    "alt": "Serving suggestion: chickpea curry",
+    "credit": "Gaurav Dhwaj Khadka · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chickpea_Curry.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0",
+    "license_name": "CC BY-SA 4.0",
+    "changes": "Resized, orientation corrected and JPEG re-encoded; display may be cropped.",
+    "label": "Serving suggestion · appearance may vary",
+    "match": {
+      "title_groups": [
+        [
+          "curry",
+          "chana"
+        ]
+      ],
+      "ingredient_groups": [
+        [
+          "chickpea",
+          "garbanzo"
+        ],
+        [
+          "potato"
+        ]
+      ],
+      "depicted": "chickpeas potato coriander bread",
+      "forbid": [
+        "meat",
+        "beef",
+        "pork",
+        "chicken",
+        "turkey",
+        "lamb",
+        "duck",
+        "bacon",
+        "ham",
+        "sausage",
+        "sausages",
+        "salami",
+        "pepperoni",
+        "prosciutto",
+        "gelatin",
+        "gelatine",
+        "lard",
+        "tallow",
+        "beef broth",
+        "chicken stock",
+        "bone broth",
+        "fish",
+        "salmon",
+        "tuna",
+        "cod",
+        "haddock",
+        "trout",
+        "anchovy",
+        "anchovies",
+        "sardine",
+        "sardines",
+        "mackerel",
+        "bonito",
+        "worcestershire",
+        "dashi",
+        "shellfish",
+        "shrimp",
+        "prawn",
+        "prawns",
+        "crab",
+        "lobster",
+        "crayfish",
+        "mussel",
+        "mussels",
+        "clam",
+        "clams",
+        "oyster",
+        "oysters",
+        "scallop",
+        "scallops",
+        "squid",
+        "octopus"
+      ],
+      "avoid_diets": [],
+      "avoid_gf": true,
+      "priority": 3
+    }
+  }
+}

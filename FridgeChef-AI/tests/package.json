@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "Optional DOM behavior tests only; not needed to run FridgeChef",
+  "devDependencies": {
+    "linkedom": "0.18.14"
+  }
+}
