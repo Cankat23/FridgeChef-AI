@@ -1,2 +1,0 @@
-// Runs before CSS so the first paint already uses the selected colour scheme.
-(function(){let choice='system';try{choice=localStorage.getItem('fridgechef.theme')||'system';}catch{}if(!['light','dark','system'].includes(choice))choice='system';document.documentElement.dataset.themeChoice=choice;document.documentElement.dataset.theme=choice==='system'?(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'):choice;})();
